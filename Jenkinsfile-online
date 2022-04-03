@@ -17,7 +17,6 @@ pipeline {
         DOCKERHUB_NAMESPACE = 'rabbitstan'
         GITHUB_ACCOUNT = 'penguin-GT'
         APP_NAME = 'devops-java-sample'
-        SONAR_CREDENTIAL_ID='snoar-qube'
     }
 
     stages {
